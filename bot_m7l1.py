@@ -7,6 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1lMzsQPoaxxQbE62PclbIoNAQcTNPRkyz
 """
 
+
+
+
 !unzip ./modelo.zip
 
 import PIL
